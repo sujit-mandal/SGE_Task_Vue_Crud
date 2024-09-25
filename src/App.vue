@@ -1,7 +1,9 @@
 <script setup>
 import Home from "./components/Home.vue";
+import Index from "./page/index.vue";
 </script>
 
 <template>
-  <Home />
+  <Index />
+  <!-- <Home /> -->
 </template>
